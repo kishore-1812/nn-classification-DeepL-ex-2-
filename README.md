@@ -19,37 +19,57 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Load the dataset.
 
 ### STEP 2:
+Split the dataset into training and testing.
 
 ### STEP 3:
-Write your own steps
+One hot encode the categorical data.
+
+### STEP 4:
+Create MinMaxScalar objects ,fit the model and transform the data.
+
+### STEP 5:
+Build the Neural Network Model and compile the model.
+
+### STEP 6:
+Train the model with the training data.
+
+### STEP 7:
+Plot the performance plot
+
+### STEP 8:
+Evaluate the model with the testing data.
 
 ## PROGRAM
 
-Include your code here
+https://github.com/kishore-1812/nn-classification-DeepL-ex-2-/blob/main/NN_Classification_Model.ipynb
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://user-images.githubusercontent.com/63336975/189724440-bf32225f-6c82-463a-bb9c-907cffb784b3.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://user-images.githubusercontent.com/63336975/189725455-3755410b-2126-4126-a41e-d85c6ef8d07b.png)
 
-Include your plot here
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://user-images.githubusercontent.com/63336975/189725564-eb937507-a563-47c5-9e61-4601f64699e3.png)
+
 
 ### Confusion Matrix
+![image](https://user-images.githubusercontent.com/63336975/189725653-74944f4b-317f-4a5c-9159-b2d5bbf2600c.png)
 
-Include confusion matrix here
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://user-images.githubusercontent.com/63336975/189725738-21ac0e4d-f571-4699-be3e-0aeeab37bf9b.png)
+
 
 ## RESULT
+Successfully built a neural network classification model for the given dataset and produced successful results.
