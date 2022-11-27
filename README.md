@@ -45,7 +45,9 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 
-https://github.com/kishore-1812/nn-classification-DeepL-ex-2-/blob/main/NN_Classification_Model.ipynb
+```python
+print('helloworld')
+```
 
 ## Dataset Information
 
